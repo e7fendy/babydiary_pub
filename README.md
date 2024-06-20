@@ -1,8 +1,8 @@
 # BabyDiary (GPL License)
 
-![Home](https://github.com/e7fendy/babydiary_pub/blob/master/screenshots/home_page.png)
-![Settings](https://github.com/e7fendy/babydiary_pub/blob/master/screenshots/settings_page.png)
-![Add Child](https://github.com/e7fendy/babydiary_pub/blob/master/screenshots/add_child_page.png)
+![Home](https://github.com/e7fendy/babydiary_pub/blob/main/screenshots/home_page.png)
+![Settings](https://github.com/e7fendy/babydiary_pub/blob/main/screenshots/settings_page.png)
+![Add Child](https://github.com/e7fendy/babydiary_pub/blob/main/screenshots/add_child_page.png)
 
 ## Getting Started
 
